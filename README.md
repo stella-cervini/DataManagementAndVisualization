@@ -10,4 +10,4 @@ The project was divided in two parts:
 2. Data Visualization part relative to the analysis and visualization of the data. This aspects were developed in Tableau and the final outcome can be found al this [link](https://public.tableau.com/app/profile/daniel1868/viz/DataVisualizationProject_16733838878890/InfluencerNews?publish=yes).
 
 More info can be be found in the reports. <br>
-The project was developed by me, @
+The project was developed by me, @simone-mattia and @danielmontalbano.
