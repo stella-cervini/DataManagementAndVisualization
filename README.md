@@ -1,4 +1,4 @@
-# Influencers News :newspaper::busts_in_silhouette:
+# Influencers&News :newspaper::busts_in_silhouette:
 This project has the goal to understand if news have the power to influece top 100 Italian Instagram influecers, in terms of numbers of followers over 2022. <br>
 The necessary data were collected, stored, merged and then analized. The main sources were:
 + Instagram
